@@ -1,0 +1,25 @@
+_repo: Army-Pulse-Radiation-Facility_68120
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. Army
+    aliases:
+    - Army, U.S.
+    - U.S. Army
+    - Army, US
+    - Army, U. S.
+    gutenberg_agent_id: '53239'
+    url: http://www.gutenberg.org/2009/agents/53239
+    wikipedia: https://en.wikipedia.org/wiki/United_States_Army
+description: ''
+gutenberg_issued: '2022-05-19'
+identifiers:
+  gutenberg: '68120'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Army Pulse Radiation Facility
+url: http://www.gutenberg.org/ebooks/68120
